@@ -1,0 +1,4 @@
+About Me
+
+I am learning frontend development through the Nexus Bootcamp.
+I am practicing Git and GitHub.
